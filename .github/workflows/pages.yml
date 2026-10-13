@@ -1,0 +1,53 @@
+name: Deploy Student App to Pages
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - run: npm install --global pnpm@11.25.0
+      - run: pnpm install --frozen-lockfile
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -e '.[test]'
+      - run: python -m pytest
+      - run: pnpm exec playwright install --with-deps chromium webkit
+      - name: Validate the root build and browser flows
+        run: pnpm check
+      - name: Read the configured Pages path
+        id: pages
+        uses: actions/configure-pages@v6
+      - name: Build at the Pages base path
+        env:
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: VITE_BASE_PATH="${PAGES_BASE_PATH%/}/" pnpm build
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: apps/student/dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish the validated artifact
+        id: deployment
+        uses: actions/deploy-pages@v5

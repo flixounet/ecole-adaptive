@@ -1,0 +1,24 @@
+{
+  "catalogVersion": 1,
+  "updatedAt": "2026-10-10T16:18:33.162Z",
+  "packages": [
+    {
+      "id": "lutz-maths-demo",
+      "version": 2,
+      "contentHash": "9f96efba54efacdb0960f95a0d22c57c88fc922bbf77d5069da3d3ffe87b5153",
+      "createdAt": "2026-10-10T16:05:17.093Z",
+      "studentIds": [
+        "lutz"
+      ],
+      "subject": "maths",
+      "grade": "5eme",
+      "chapter": "Vorrangregeln – Distributivgesetz – Potenzen",
+      "title": "DEMO – Vorrangregeln, Distributivgesetz und Potenzen",
+      "modes": [
+        "learn",
+        "exam"
+      ],
+      "url": "packages/lutz-maths-demo-v2.json"
+    }
+  ]
+}

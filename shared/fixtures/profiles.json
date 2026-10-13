@@ -1,0 +1,23 @@
+[
+  {
+    "id": "max",
+    "name": "Max",
+    "grade": "Noch nicht festgelegt",
+    "preferredLanguage": "de",
+    "subjects": ["maths"]
+  },
+  {
+    "id": "lutz",
+    "name": "Lutz",
+    "grade": "Noch nicht festgelegt",
+    "preferredLanguage": "de",
+    "subjects": ["maths"]
+  },
+  {
+    "id": "ben",
+    "name": "Ben",
+    "grade": "Noch nicht festgelegt",
+    "preferredLanguage": "de",
+    "subjects": ["maths"]
+  }
+]

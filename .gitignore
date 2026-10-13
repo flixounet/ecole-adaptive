@@ -1,0 +1,43 @@
+node_modules/
+.pnpm-store/
+apps/student/dist/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+coverage/
+test-results/
+.DS_Store
+sources/**/*
+!sources/**/
+!sources/**/.gitkeep
+# Only reviewed published content is public and version-controlled.
+content/.publish.lock
+
+# Private originals, reviewed source models, local logs
+.teacher-data/
+
+playwright-report/
+
+# Private Unterrichtsdateien im vom Nutzer gewählten Ordner
+/quellen/
+
+# Private source folders, including Finder names with trailing spaces
+/[Qq]uellen*/
+
+# Local student backups and generated handbook artifacts
+ecole-backup-*.json
+/output/
+
+# Local handbook production files and screenshots with saved learning results
+/docs/handbuch/
+/docs/screenshots/start-repaired-student.png
+/docs/screenshots/library-desktop.jpg
+/docs/screenshots/library-mobile.jpg
+/docs/screenshots/exam-ipad.jpg
+/docs/screenshots/phase2-history-mobile.png
+/docs/screenshots/phase2-mastery-desktop.png
+/docs/screenshots/phase2-mastery-ipad.png

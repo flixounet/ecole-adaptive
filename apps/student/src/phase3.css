@@ -1,0 +1,229 @@
+/* Shared additions for profiles, offline content and local backup. */
+:root {
+  scroll-padding-top: 24px;
+}
+body {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+input,
+select,
+textarea {
+  font: inherit;
+  font-size: max(16px, 1rem);
+}
+button,
+input:not([type='checkbox']),
+select {
+  min-height: 44px;
+}
+button,
+a,
+input,
+select,
+textarea {
+  touch-action: manipulation;
+}
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #cdd6cc;
+  border-radius: 10px;
+  resize: vertical;
+}
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid #2e6d54;
+  outline-offset: 3px;
+}
+.manage-page {
+  max-width: 1060px;
+  margin: auto;
+  padding: 32px clamp(18px, 4vw, 48px);
+}
+.manage-page h1,
+.settings-page h1,
+.content-page h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(30px, 4vw, 44px);
+  font-weight: 500;
+}
+.manage-header,
+.content-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.settings-card,
+.profile-editor,
+.package-card,
+.share-panel {
+  background: #fffefa;
+  border: 1px solid #dce2d7;
+  border-radius: 18px;
+  padding: 24px;
+  margin: 20px 0;
+}
+.profile-list {
+  display: grid;
+  gap: 12px;
+}
+.profile-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+  background: #fffefa;
+  border: 1px solid #dce2d7;
+  border-radius: 14px;
+  flex-wrap: wrap;
+}
+.profile-row > div:first-child {
+  flex: 1;
+  min-width: 120px;
+}
+.profile-row p {
+  margin: 6px 0;
+  color: #657466;
+}
+.profile-editor {
+  display: grid;
+  gap: 18px;
+}
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.form-grid label,
+.profile-editor > label,
+.settings-card label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.form-grid input,
+.form-grid select,
+.profile-editor > label input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #bfcdbc;
+  border-radius: 9px;
+  background: white;
+}
+.form-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.local-notice {
+  padding: 14px 18px;
+  background: #eef3e8;
+  border-radius: 12px;
+  line-height: 1.55;
+  color: #45604d;
+}
+.package-card h2 {
+  margin-top: 0;
+  font-size: 23px;
+}
+.package-card .package-details {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  color: #637264;
+  margin: 16px 0;
+}
+.package-state {
+  color: #2c6349;
+  font-weight: 600;
+}
+.share-panel {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.share-panel > div:first-child {
+  flex: 1;
+  min-width: 220px;
+}
+.share-panel h2 {
+  margin: 0 0 8px;
+  font-size: 23px;
+}
+.share-panel p {
+  margin: 0;
+  line-height: 1.6;
+}
+.share-text {
+  flex-basis: 100%;
+  display: grid;
+  gap: 12px;
+}
+.share-panel > p {
+  flex-basis: 100%;
+}
+.backup-file {
+  margin: 16px 0;
+  max-width: 100%;
+}
+.profile-manage-button {
+  margin-top: 18px;
+}
+.content-filter {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.content-filter select {
+  padding: 8px 12px;
+  border: 1px solid #cdd6cc;
+  border-radius: 8px;
+}
+.status-inline {
+  margin: 12px 0;
+  color: #546a59;
+}
+.danger-outline {
+  color: #875132;
+}
+@media (max-width: 700px) {
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+  .main-nav {
+    flex-wrap: wrap;
+  }
+  .main-nav .nav-item {
+    flex: 1 1 130px;
+  }
+  .settings-card,
+  .profile-editor,
+  .package-card,
+  .share-panel {
+    padding: 18px;
+  }
+  .app-shell {
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+  .topbar {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .share-panel > button {
+    width: 100%;
+  }
+}
+
+.subject-tabs {
+  flex-wrap: wrap;
+  overflow: visible;
+}

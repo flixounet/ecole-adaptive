@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ecole-adaptive-teacher"
+version = "1.0.0rc1"
+description = "Local Teacher Studio for Ecole Adaptive"
+requires-python = ">=3.12"
+dependencies = [
+  "jsonschema>=4.23,<5", "fastapi>=0.115,<1", "uvicorn>=0.34,<1",
+  "openai>=2,<3", "pydantic>=2.10,<3", "python-multipart>=0.0.20,<1",
+  "Pillow>=11,<13", "pypdf>=5,<7", "python-dotenv>=1,<2", "rfc8785>=0.1.4,<1"
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.3,<9", "httpx>=0.28,<1"]
+
+[tool.setuptools.packages.find]
+include = ["teacher*", "shared"]
+
+[tool.setuptools.package-data]
+shared = ["schemas/*.json"]
+teacher = ["static/*", "prompts/*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
