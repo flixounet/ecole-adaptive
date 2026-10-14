@@ -1,0 +1,832 @@
+{
+  "packageVersion": 1,
+  "id": "course-002da507911d41f484c08984cace98ed",
+  "version": 1,
+  "title": "Der Totalitarismus in der UdSSR / Stalinismus – Aufgabenpool",
+  "subject": "history_geography",
+  "grade": "3eme",
+  "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+  "studentIds": [
+    "max"
+  ],
+  "createdAt": "2026-10-14T13:31:39.981Z",
+  "modes": [
+    "learn",
+    "exam"
+  ],
+  "questionBank": {
+    "schemaVersion": "1.0",
+    "id": "course-002da507911d41f484c08984cace98ed",
+    "version": 1,
+    "title": "Der Totalitarismus in der UdSSR / Stalinismus – Aufgabenpool",
+    "subject": "history_geography",
+    "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+    "grade": "3eme",
+    "language": "de",
+    "studentIds": [
+      "max"
+    ],
+    "isDemo": false,
+    "sourceNotice": "Die Aufgaben basieren ausschließlich auf den Seiten 1 und 2 der Quelle 'fiche-eleves-3-lesbar.pdf'. Für weiterführende Differenzierung oder seltenere Fragetypen liegt nicht genügend Material vor.",
+    "skills": [
+      {
+        "id": "history.identify_totalitarian_elements",
+        "name": "Merkmale totalitärer Systeme erkennen",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "description": "Erkennt und beschreibt typische Merkmale totalitärer Systeme am Beispiel der UdSSR unter Stalin (z.B. Propaganda, Personenkult, staatlicher Terror, Zwangskollektivierung)."
+      },
+      {
+        "id": "history.analyze_propaganda_personality_cult",
+        "name": "Propaganda und Personenkult analysieren",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "description": "Kann anhand von Beispielen (Plakat, Texten) Propagandamaßnahmen und den Personenkult um Stalin erläutern."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "src-055de3b0274b4731a8a70cf4f89202f3-p1",
+        "label": "fiche-eleves-3-lesbar.pdf S.1",
+        "kind": "pdf"
+      },
+      {
+        "id": "src-055de3b0274b4731a8a70cf4f89202f3-p2",
+        "label": "fiche-eleves-3-lesbar.pdf S.2",
+        "kind": "pdf"
+      }
+    ],
+    "durationMinutes": 30,
+    "questionCount": 18,
+    "questions": [
+      {
+        "id": "1",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Wie nennt man die Staatsform in der UdSSR unter Stalin, bei der der Staat alle Lebensbereiche kontrolliert?",
+        "instruction": "Wähle die richtige Antwort.",
+        "acceptedAnswers": [
+          "a"
+        ],
+        "correctAnswer": "a",
+        "explanationSteps": [
+          "Totalitarismus bezeichnet eine Herrschaftsform, in der der Staat alles kontrolliert.",
+          "In der UdSSR unter Stalin gab es Totalitarismus."
+        ],
+        "hint": "Es ist ein anderes Wort als Diktatur.",
+        "secondHint": "Der Begriff beginnt mit 'T'.",
+        "memoryRule": "Totalitarismus = totale Kontrolle durch den Staat.",
+        "commonMistake": "Häufig wird hier fälschlich 'Diktatur' genannt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Totalitarismus"
+          },
+          {
+            "id": "b",
+            "text": "Demokratie"
+          },
+          {
+            "id": "c",
+            "text": "Monarchie"
+          },
+          {
+            "id": "d",
+            "text": "Feudalismus"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Nenne einen wichtigen Aspekt des Stalinismus, der mit Zwang zu tun hat.",
+        "instruction": "Schreibe die richtige Antwort auf.",
+        "acceptedAnswers": [
+          "Zwangskollektivierung",
+          "Zwangskollektivierung."
+        ],
+        "correctAnswer": "Zwangskollektivierung",
+        "explanationSteps": [
+          "Im Stalinismus wurden Bauern gezwungen, ihre Höfe zusammenzulegen.",
+          "Das nennt man Zwangskollektivierung."
+        ],
+        "hint": "Es hat mit Landwirtschaft zu tun.",
+        "secondHint": "Das Wort beginnt mit 'Zwangs...'.",
+        "memoryRule": "Zwangskollektivierung = erzwungene Zusammenlegung der Bauernhöfe.",
+        "commonMistake": "Manchmal wird einfach 'Kollektivierung' geschrieben, das ist zu ungenau.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 60
+      },
+      {
+        "id": "3",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Wie zeigt sich der Personenkult um Stalin?",
+        "instruction": "Wähle das richtige Beispiel aus.",
+        "acceptedAnswers": [
+          "c"
+        ],
+        "correctAnswer": "c",
+        "explanationSteps": [
+          "Personenkult bedeutet übertriebene Verehrung einer Person.",
+          "Stalin wurde als geliebter Führer und Retter dargestellt."
+        ],
+        "hint": "Suche nach einem Text, der besonders positiv über Stalin spricht.",
+        "secondHint": "Man lobt Stalin als Führer oder Retter.",
+        "memoryRule": "Personenkult = außergewöhnliche Heldenverehrung.",
+        "commonMistake": "Oft wird Propaganda mit Personenkult verwechselt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Kritik an Stalin in der Zeitung"
+          },
+          {
+            "id": "b",
+            "text": "Bilder von Blumenfeldern"
+          },
+          {
+            "id": "c",
+            "text": "Stalin wird als geliebter Führer bezeichnet"
+          },
+          {
+            "id": "d",
+            "text": "Verbot von Radios"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Was ist Propaganda?",
+        "instruction": "Wähle die beste Antwort.",
+        "acceptedAnswers": [
+          "c"
+        ],
+        "correctAnswer": "c",
+        "explanationSteps": [
+          "Propaganda sind Informationen, die eine bestimmte Meinung verbreiten.",
+          "Im Stalinismus wurden Soldaten, Arbeiter und Bauern auf Plakaten heldenhaft gezeigt."
+        ],
+        "hint": "Es geht darum, Menschen zu beeinflussen.",
+        "secondHint": "Propaganda zeigt oft Helden oder Feinde.",
+        "memoryRule": "Propaganda = gezielte Beeinflussung durch Medien.",
+        "commonMistake": "Propaganda wird manchmal mit Werbung gleichgesetzt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Eine berühmte Rede"
+          },
+          {
+            "id": "b",
+            "text": "Eine gemütliche Familienfeier"
+          },
+          {
+            "id": "c",
+            "text": "Gezielte Beeinflussung durch Plakate oder Texte"
+          },
+          {
+            "id": "d",
+            "text": "Naturbeschreibungen in Büchern"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Was wurde in der UdSSR unter Stalin verboten, um das kapitalistische Wirtschaftssystem abzuschaffen?",
+        "instruction": "Wähle die richtige Antwort.",
+        "acceptedAnswers": [
+          "b"
+        ],
+        "correctAnswer": "b",
+        "explanationSteps": [
+          "Im Stalinismus gab es keinen Privatbesitz und kein Profitstreben.",
+          "Das kapitalistische Wirtschaftssystem wurde abgeschafft."
+        ],
+        "hint": "Kapitalismus bedeutet Eigentum und Gewinn.",
+        "secondHint": "Es geht um zwei wichtige wirtschaftliche Begriffe.",
+        "memoryRule": "Kein Privatbesitz – kein Profit in der UdSSR.",
+        "commonMistake": "Manche denken, alles blieb wie vorher.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 80,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Wahlen ab 16 Jahren"
+          },
+          {
+            "id": "b",
+            "text": "Privatbesitz und Profitstreben"
+          },
+          {
+            "id": "c",
+            "text": "Bücherlesen"
+          },
+          {
+            "id": "d",
+            "text": "Freizeitgestaltung"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Wie hieß die politische Polizei, die Gegner verfolgte?",
+        "instruction": "Schreibe die richtige Abkürzung auf.",
+        "acceptedAnswers": [
+          "NKWD",
+          "NKWD."
+        ],
+        "correctAnswer": "NKWD",
+        "explanationSteps": [
+          "Die sowjetische politische Polizei hieß NKWD.",
+          "Sie verfolgt als Regimegegner angesehene Menschen."
+        ],
+        "hint": "Sie besteht aus vier Buchstaben.",
+        "secondHint": "Die ersten beiden Buchstaben sind 'N' und 'K'.",
+        "memoryRule": "NKWD = Polizei des Staates in der UdSSR.",
+        "commonMistake": "Oft wird KGB genannt, was aber erst später existierte.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 60
+      },
+      {
+        "id": "7",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "short_text",
+        "question": "Wie heißt das System von Straf- und Arbeitslagern in der UdSSR, besonders für angebliche Feinde des Staates?",
+        "instruction": "Gib einen Begriff an.",
+        "acceptedAnswers": [
+          "Gulag",
+          "Gulag."
+        ],
+        "correctAnswer": "Gulag",
+        "explanationSteps": [
+          "Das Arbeitslagersystem heißt Gulag.",
+          "Dorthin kamen viele angebliche Regimegegner."
+        ],
+        "hint": "Der Begriff beginnt mit 'G'.",
+        "secondHint": "Es ist ein einziges Wort.",
+        "memoryRule": "Gulag = sowjetisches Straf- und Arbeitslager.",
+        "commonMistake": "Manchmal wird einfach 'Lager' geschrieben – das ist zu unspezifisch.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 70
+      },
+      {
+        "id": "8",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Was geschah zwischen 1936 und 1938 mit etwa 1,5 Millionen Menschen in der UdSSR?",
+        "instruction": "Wähle die richtige Antwort.",
+        "acceptedAnswers": [
+          "a"
+        ],
+        "correctAnswer": "a",
+        "explanationSteps": [
+          "In dieser Zeit wurden sehr viele Menschen verhaftet.",
+          "Viele davon wurden hingerichtet oder kamen in Gulags."
+        ],
+        "hint": "Es war eine Zeit großer Verfolgung.",
+        "secondHint": "Viele Menschen wurden eingesperrt oder getötet.",
+        "memoryRule": "Zwischen 1936-1938: viele Verhaftungen und Hinrichtungen.",
+        "commonMistake": "Man denkt an normale Kriminalität, es war aber politischer Terror.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 75,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Sie wurden verhaftet, viele hingerichtet, andere in Gulags gesteckt."
+          },
+          {
+            "id": "b",
+            "text": "Sie gründeten freiwillig Genossenschaften."
+          },
+          {
+            "id": "c",
+            "text": "Sie reisten ins Ausland."
+          },
+          {
+            "id": "d",
+            "text": "Sie wurden ausgezeichnet und geehrt."
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Was zeigt ein Propagandaplakat typischerweise NICHT?",
+        "instruction": "Wähle das unpassende Beispiel aus.",
+        "acceptedAnswers": [
+          "d"
+        ],
+        "correctAnswer": "d",
+        "explanationSteps": [
+          "Propagandaplakate zeigen meist Kämpfer, Führer, Bauern.",
+          "Sie zeigen keine unpolitischen Inhalte wie Landschaften ohne Menschen."
+        ],
+        "hint": "Manche Plakate zeigen Menschen als Helden.",
+        "secondHint": "Ein Plakat ohne politische Aussage passt nicht.",
+        "memoryRule": "Propaganda hat immer eine politische Botschaft.",
+        "commonMistake": "Man verwechselt Propaganda mit Alltagsbildern.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 70,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Ein Soldat verteidigt sein Land."
+          },
+          {
+            "id": "b",
+            "text": "Stalin als Retter wird gezeigt."
+          },
+          {
+            "id": "c",
+            "text": "Arbeiter werden gefeiert."
+          },
+          {
+            "id": "d",
+            "text": "Ein ruhiger See mit Bäumen."
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "short_text",
+        "question": "Wie werden Kinder auf manchen Postern mit Stalin dargestellt?",
+        "instruction": "Beschreibe mit ein bis zwei Wörtern.",
+        "acceptedAnswers": [
+          "als Freunde",
+          "als Freunde von Stalin",
+          "als Freund von Stalin"
+        ],
+        "correctAnswer": "als Freunde",
+        "explanationSteps": [
+          "Poster zeigen Stalin oft zusammen mit Kindern.",
+          "Die Darstellung betont Stalin als Freund der Kinder."
+        ],
+        "hint": "Denke an Freundschaft.",
+        "secondHint": "Stalin und Kinder werden als befreundet gezeigt.",
+        "memoryRule": "Stalin wird freundlich mit Kindern gezeigt.",
+        "commonMistake": "Man nimmt an, die Kinder werden bedroht – das stimmt nicht auf den Postern.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 65
+      },
+      {
+        "id": "11",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Welche der folgenden Aussagen beschreibt Totalitarismus am besten?",
+        "instruction": "Wähle eine Antwort.",
+        "acceptedAnswers": [
+          "b"
+        ],
+        "correctAnswer": "b",
+        "explanationSteps": [
+          "Totalitarismus bedeutet, der Staat kontrolliert fast alles.",
+          "Widerstand wird unterdrückt."
+        ],
+        "hint": "Es geht um Kontrolle.",
+        "secondHint": "Der Staat greift überall ein.",
+        "memoryRule": "Totalitarismus= alles wird kontrolliert.",
+        "commonMistake": "Man verwechselt 'viel Kontrolle' mit 'ein bisschen Kontrolle'.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 65,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Im Land wird nur die Wirtschaft gelenkt."
+          },
+          {
+            "id": "b",
+            "text": "Der Staat versucht, alle Bereiche des Lebens zu kontrollieren."
+          },
+          {
+            "id": "c",
+            "text": "Jeder darf tun, was er will."
+          },
+          {
+            "id": "d",
+            "text": "Nur die Schule wird kontrolliert."
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 3,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Welche Merkmale gehören zusammen, um den Totalitarismus in der UdSSR zu beschreiben?",
+        "instruction": "Wähle die Kombination mit allen richtigen Elementen.",
+        "acceptedAnswers": [
+          "d"
+        ],
+        "correctAnswer": "d",
+        "explanationSteps": [
+          "Totalitarismus in der UdSSR heißt: Propaganda, Personenkult, Terror, Zwangskollektivierung.",
+          "Alle vier Elemente gehören zusammen."
+        ],
+        "hint": "Es sind vier Begriffe.",
+        "secondHint": "Nur eine Antwort enthält alle vier.",
+        "memoryRule": "Totalitarismus = alle Mittel zur Beherrschung.",
+        "commonMistake": "Oft werden nur zwei oder drei Elemente genannt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1",
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 90,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Personenkult und Zwangskollektivierung"
+          },
+          {
+            "id": "b",
+            "text": "Terror und Propaganda"
+          },
+          {
+            "id": "c",
+            "text": "Nur Terror"
+          },
+          {
+            "id": "d",
+            "text": "Propaganda, Personenkult, Terror, Zwangskollektivierung"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "short_text",
+        "question": "Wie wird Stalin in Liedern oder Briefen beschrieben?",
+        "instruction": "Nenne einen Ausdruck aus den Beispielen.",
+        "acceptedAnswers": [
+          "geliebter Führer",
+          "Retter des Landes",
+          "geliebter Führer.",
+          "Retter des Landes."
+        ],
+        "correctAnswer": "geliebter Führer",
+        "explanationSteps": [
+          "In Liedern oder Briefen wird Stalin positiv erwähnt.",
+          "Häufig fällt der Ausdruck 'geliebter Führer' oder 'Retter des Landes'."
+        ],
+        "hint": "Es geht um eine persönliche Verehrung.",
+        "secondHint": "In den Dokumenten steht das Wort 'Führer'.",
+        "memoryRule": "Der Personenkult lebt von solchen Ausdrücken.",
+        "commonMistake": "Man nimmt an, Stalin wurde immer nur kritisiert.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 70
+      },
+      {
+        "id": "14",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Was bedeutet der Begriff 'Zwangskollektivierung' im Zusammenhang mit der UdSSR?",
+        "instruction": "Wähle die richtige Erklärung.",
+        "acceptedAnswers": [
+          "c"
+        ],
+        "correctAnswer": "c",
+        "explanationSteps": [
+          "Zwangskollektivierung heißt, Bauernhöfe wurden gewaltsam zusammengelegt.",
+          "Das war ein typisches Zeichen für den Stalinismus."
+        ],
+        "hint": "Es hat mit Landwirtschaft zu tun.",
+        "secondHint": "Kleine Bauernhöfe? Die Antwort steht in c.",
+        "memoryRule": "Zwangskollektivierung = gewaltsame Zusammenlegung.",
+        "commonMistake": "Oft wird 'Kollektivierung' mit Freiwilligkeit verwechselt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 70,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Freiwillige Bildung von Bauerngruppen."
+          },
+          {
+            "id": "b",
+            "text": "Import von Maschinen aus dem Ausland."
+          },
+          {
+            "id": "c",
+            "text": "Erzwungene Zusammenlegung der Höfe zu Großbetrieben."
+          },
+          {
+            "id": "d",
+            "text": "Erntefeste auf dem Land."
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Welches Ziel hatte die Propaganda in der UdSSR unter Stalin?",
+        "instruction": "Wähle das Hauptziel.",
+        "acceptedAnswers": [
+          "b"
+        ],
+        "correctAnswer": "b",
+        "explanationSteps": [
+          "Propaganda sollte die Menschen beeinflussen.",
+          "Damit wurde Unterstützung für Stalin und seine Politik geschaffen."
+        ],
+        "hint": "Propaganda verändert Meinungen.",
+        "secondHint": "Sie arbeitet mit Bildern von Helden.",
+        "memoryRule": "Propaganda = Menschen zur Zustimmung bewegen.",
+        "commonMistake": "Viele glauben, es gehe nur um Information.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1"
+        ],
+        "estimatedSeconds": 75,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Menschen zum Lesen bringen."
+          },
+          {
+            "id": "b",
+            "text": "Meinungen für die Regierung beeinflussen."
+          },
+          {
+            "id": "c",
+            "text": "Freizeitangebote bewerben."
+          },
+          {
+            "id": "d",
+            "text": "Schulnoten verbessern."
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 3,
+        "points": 3.0,
+        "questionType": "short_text",
+        "question": "Beschreibe mit wenigen Worten, wie Propaganda, Personenkult und Terror zusammenwirken, um ein totalitäres System zu schaffen.",
+        "instruction": "Beschreibe kurz den Zusammenhang.",
+        "acceptedAnswers": [
+          "Propaganda sorgt für Zustimmung, Personenkult erhöht Verehrung, Terror unterdrückt Gegner.",
+          "Propaganda macht Politik bekannt, Personenkult stellt Stalin heraus, Terror schüchtert ein.",
+          "Propaganda beeinflusst, Personenkult verehrt, Terror bedroht.",
+          "Propaganda sorgt für Zustimmung, Personenkult verehrt Führer, Terror unterdrückt Gegner."
+        ],
+        "correctAnswer": "Propaganda sorgt für Zustimmung, Personenkult erhöht Verehrung, Terror unterdrückt Gegner.",
+        "explanationSteps": [
+          "Propaganda beeinflusst die Meinungen der Menschen.",
+          "Personenkult lenkt die Verehrung auf Stalin.",
+          "Terror sorgt dafür, dass keine Opposition entsteht.",
+          "Das macht die Kontrolle im totalitären System perfekt."
+        ],
+        "hint": "Drei Elemente wirken zusammen.",
+        "secondHint": "Sie ergänzen sich: zwei beeinflussen, eins bedroht.",
+        "memoryRule": "Totalitarismus = Manipulation und Unterdrückung kombiniert.",
+        "commonMistake": "Oft werden nur einzelne Aspekte beschrieben.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1",
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 120
+      },
+      {
+        "id": "17",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.identify_totalitarian_elements"
+        ],
+        "difficulty": 2,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Welche Aussage über den Gulag ist richtig?",
+        "instruction": "Klicke auf die richtige Antwort.",
+        "acceptedAnswers": [
+          "a"
+        ],
+        "correctAnswer": "a",
+        "explanationSteps": [
+          "Der Gulag war ein System von Straf- und Arbeitslagern.",
+          "Es war für angebliche Gegner des Staates bestimmt."
+        ],
+        "hint": "Gulag hieß ein bestimmtes Lagersystem.",
+        "secondHint": "Viele wurden dorthin geschickt als Strafe.",
+        "memoryRule": "Gulag = Straflager der UdSSR.",
+        "commonMistake": "Häufig wird Gulag mit normalen Gefängnissen verwechselt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 65,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Es war ein System von Straf- und Arbeitslagern für angebliche Staatsfeinde."
+          },
+          {
+            "id": "b",
+            "text": "Ein Ferienlager für Pioniere."
+          },
+          {
+            "id": "c",
+            "text": "Die Abkürzung für ein politisches Amt."
+          },
+          {
+            "id": "d",
+            "text": "Die Hauptverwaltung der Eisenbahn."
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+        "skillIds": [
+          "history.analyze_propaganda_personality_cult"
+        ],
+        "difficulty": 3,
+        "points": 3.0,
+        "questionType": "short_text",
+        "question": "Erkläre an einem Beispiel, wie ein Propagandaplakat sowohl Personenkult als auch Propaganda zeigt.",
+        "instruction": "Beschreibe ein denkbares Plakat und nenne beide Elemente.",
+        "acceptedAnswers": [
+          "Ein Plakat zeigt Stalin als Retter und Held, das ist Personenkult. Gleichzeitig beeinflusst das Plakat die Menschen und ist damit Propaganda.",
+          "Stalin wird auf einem Plakat als Held der Kinder dargestellt. Das ist Personenkult und Propaganda zugleich.",
+          "Plakat mit Stalin als Freund der Bauern: verehrt ihn (Personenkult), will Zustimmung (Propaganda)."
+        ],
+        "correctAnswer": "Ein Plakat zeigt Stalin als Retter und Held, das ist Personenkult. Gleichzeitig beeinflusst das Plakat die Menschen und ist damit Propaganda.",
+        "explanationSteps": [
+          "Auf Propagandaplakaten wird Stalin besonders groß und freundlich dargestellt.",
+          "Das ist Personenkult, weil Stalin übertrieben verehrt wird.",
+          "Gleichzeitig ist es Propaganda, weil es die Meinung der Betrachter beeinflussen soll."
+        ],
+        "hint": "Das Plakat zeigt Stalin als besonderen Menschen.",
+        "secondHint": "Es wird gezeigt, wie sich Verehrung und Einfluss vermischen.",
+        "memoryRule": "Personenkult = Verehrung, Propaganda = Beeinflussung.",
+        "commonMistake": "Oft wird nur ein Aspekt erkannt.",
+        "sourceRefs": [
+          "src-055de3b0274b4731a8a70cf4f89202f3-p1",
+          "src-055de3b0274b4731a8a70cf4f89202f3-p2"
+        ],
+        "estimatedSeconds": 120
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "exam-1",
+      "title": "Der Totalitarismus in der UdSSR / Stalinismus – Aufgabenpool – Klassenarbeit",
+      "mode": "exam",
+      "durationMinutes": 30,
+      "questionIds": [
+        "7",
+        "15",
+        "8",
+        "9",
+        "14",
+        "10",
+        "17",
+        "13",
+        "5",
+        "18",
+        "16",
+        "4",
+        "12",
+        "3",
+        "2",
+        "11",
+        "6",
+        "1"
+      ]
+    }
+  ],
+  "contentHash": "3b3e4aece08133a6a2d78ff4bf6c4a55fce2b49ad7ba49108b815f22fe9d7fa7"
+}

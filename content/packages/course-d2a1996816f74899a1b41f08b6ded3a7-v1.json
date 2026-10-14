@@ -1,0 +1,575 @@
+{
+  "packageVersion": 1,
+  "id": "course-d2a1996816f74899a1b41f08b6ded3a7",
+  "version": 1,
+  "title": "Der Totalitarismus in der UdSSR",
+  "subject": "history_geography",
+  "grade": "3eme",
+  "chapter": "Der Totalitarismus in der UdSSR",
+  "studentIds": [
+    "max"
+  ],
+  "createdAt": "2026-10-14T14:52:15.919Z",
+  "modes": [
+    "learn",
+    "exam"
+  ],
+  "questionBank": {
+    "schemaVersion": "1.0",
+    "id": "course-d2a1996816f74899a1b41f08b6ded3a7",
+    "version": 1,
+    "title": "Der Totalitarismus in der UdSSR",
+    "subject": "history_geography",
+    "chapter": "Der Totalitarismus in der UdSSR",
+    "grade": "3eme",
+    "language": "de",
+    "studentIds": [
+      "max"
+    ],
+    "isDemo": false,
+    "sourceNotice": "Der Aufgabenpool stützt sich ausschließlich auf die bestätigten Quellen auf den Seiten 1–2 der fiche-eleves-3-lesbar.pdf. Zahlenwerte zur Repression sind im Quellenmodell nicht enthalten; deshalb werden keine Zahlenaufgaben ergänzt. Der Pool umfasst 12 fachlich belastbare Aufgaben.",
+    "skills": [
+      {
+        "id": "history_geography.totalitarismus_udssr.analyse_bildquelle",
+        "name": "Bildquellen analysieren",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "description": "Personen, Symbole und dargestellte Botschaften auf den Propagandaplakaten beschreiben."
+      },
+      {
+        "id": "history_geography.totalitarismus_udssr.analyse_textquelle",
+        "name": "Textquellen analysieren",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "description": "Aussagen aus den Reden und dem Brief herausarbeiten und mit den dargestellten Herrschaftsmethoden in Verbindung bringen."
+      },
+      {
+        "id": "history_geography.totalitarismus_udssr.zahlen_deuten",
+        "name": "Historische Zahlen auswerten",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "description": "Zahlen zu Verhaftungen, Verurteilungen, Hinrichtungen und Gulag-Häftlingen zeitlich einordnen und beschreiben."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "src-7aef0ede67524b16be944eac649ce217-p1",
+        "label": "fiche-eleves-3-lesbar.pdf, Seite 1",
+        "kind": "pdf"
+      },
+      {
+        "id": "src-7aef0ede67524b16be944eac649ce217-p2",
+        "label": "fiche-eleves-3-lesbar.pdf, Seite 2",
+        "kind": "pdf"
+      }
+    ],
+    "durationMinutes": 30,
+    "questionCount": 12,
+    "questions": [
+      {
+        "id": "q01",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_bildquelle"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Welche drei Figuren zeigt das Propagandaplakat gemeinsam?",
+        "instruction": "Wähle die passende Antwort.",
+        "acceptedAnswers": [
+          "b"
+        ],
+        "correctAnswer": "b",
+        "explanationSteps": [
+          "Das Quellenmodell nennt drei dargestellte Figuren.",
+          "Es sind ein Soldat, ein Arbeiter und ein Bauer."
+        ],
+        "hint": "Die Figuren vertreten verschiedene Tätigkeiten.",
+        "secondHint": "Eine Figur ist beim Militär, eine arbeitet und eine ist in der Landwirtschaft tätig.",
+        "memoryRule": "Auf dem Plakat stehen Soldat, Arbeiter und Bauer gemeinsam.",
+        "commonMistake": "Eine der drei Figuren auszulassen oder durch eine nicht genannte Figur zu ersetzen.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 45,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Bergmann, Kind und Soldat"
+          },
+          {
+            "id": "b",
+            "text": "Soldat, Arbeiter und Bauer"
+          },
+          {
+            "id": "c",
+            "text": "Stalin, Arbeiter und Bergmann"
+          },
+          {
+            "id": "d",
+            "text": "Bauer, Kind und Bergmann"
+          }
+        ]
+      },
+      {
+        "id": "q02",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_bildquelle"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Vor welchen Gegnern zeigt das Plakat Soldat, Arbeiter und Bauer?",
+        "instruction": "Antworte mit einer kurzen, genauen Aussage.",
+        "acceptedAnswers": [
+          "Vor als kapitalistisch bezeichneten Gegnern.",
+          "Vor kapitalistischen Gegnern."
+        ],
+        "correctAnswer": "Vor als kapitalistisch bezeichneten Gegnern.",
+        "explanationSteps": [
+          "Das Quellenmodell beschreibt die Gegner auf dem Plakat.",
+          "Sie werden als kapitalistisch bezeichnet."
+        ],
+        "hint": "Die Antwort beschreibt, wie die Gegner im Begleittext eingeordnet werden.",
+        "secondHint": "Das gesuchte Wort beginnt mit „kapitalistisch“.",
+        "memoryRule": "Das Plakat stellt die drei Figuren vor als kapitalistisch bezeichneten Gegnern dar.",
+        "commonMistake": "Die Gegner als konkrete Länder zu benennen; das Quellenmodell nennt sie hier nur als kapitalistisch bezeichnet.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 60
+      },
+      {
+        "id": "q03",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_bildquelle"
+        ],
+        "difficulty": 2,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Wovor warnt der Begleittext zum Propagandaplakat?",
+        "instruction": "Wähle die passende Antwort.",
+        "acceptedAnswers": [
+          "c"
+        ],
+        "correctAnswer": "c",
+        "explanationSteps": [
+          "Der Begleittext ergänzt die Botschaft des Plakats.",
+          "Laut Quellenmodell warnt er vor einer Intervention kapitalistischer Länder gegen die UdSSR."
+        ],
+        "hint": "Es geht um eine mögliche Handlung von Ländern gegen die UdSSR.",
+        "secondHint": "Gesucht ist eine Warnung vor einem Eingreifen.",
+        "memoryRule": "Der Begleittext warnt vor einer Intervention kapitalistischer Länder gegen die UdSSR.",
+        "commonMistake": "Die Warnung mit der gemeinsamen Darstellung von Soldat, Arbeiter und Bauer zu verwechseln.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Vor der Rückkehr zur individuellen Kleinwirtschaft"
+          },
+          {
+            "id": "b",
+            "text": "Vor dem Einsatz von Maschinen in der Landwirtschaft"
+          },
+          {
+            "id": "c",
+            "text": "Vor einer Intervention kapitalistischer Länder gegen die UdSSR"
+          },
+          {
+            "id": "d",
+            "text": "Vor einer Botschaft der Bergleute an Stalin"
+          }
+        ]
+      },
+      {
+        "id": "q04",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Wie heißt die Umstellung von individueller Kleinwirtschaft auf gemeinsame, große Landwirtschaft?",
+        "instruction": "Nenne den passenden Begriff.",
+        "acceptedAnswers": [
+          "Zwangskollektivierung"
+        ],
+        "correctAnswer": "Zwangskollektivierung",
+        "explanationSteps": [
+          "Die Definition beschreibt den Wechsel von individueller Kleinwirtschaft zu gemeinsamer, großer Landwirtschaft.",
+          "Dieser Vorgang heißt Zwangskollektivierung."
+        ],
+        "hint": "Gesucht ist der Fachbegriff für die radikale Umstellung der Landwirtschaft.",
+        "secondHint": "Der Begriff beginnt mit „Zwangs-“.",
+        "memoryRule": "Zwangskollektivierung bezeichnet die radikale Umstellung auf gemeinsame, große Landwirtschaft.",
+        "commonMistake": "Den Begriff mit dem kapitalistischen Wirtschaftssystem zu verwechseln.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 45
+      },
+      {
+        "id": "q05",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 2,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Welchen Wechsel beschreibt Stalins Rede als sozialistischen Entwicklungsweg?",
+        "instruction": "Wähle die passende Antwort.",
+        "acceptedAnswers": [
+          "a"
+        ],
+        "correctAnswer": "a",
+        "explanationSteps": [
+          "Die Rede behandelt laut Quellenmodell die Landwirtschaft.",
+          "Sie beschreibt den Wechsel von individueller Kleinwirtschaft zu kollektiver Großlandwirtschaft."
+        ],
+        "hint": "Es geht um zwei unterschiedliche Formen der Landwirtschaft.",
+        "secondHint": "Die eine Form besteht aus kleinen individuellen Betrieben, die andere ist kollektiv und groß.",
+        "memoryRule": "Stalins Rede stellt den Übergang zur kollektiven Großlandwirtschaft als sozialistischen Entwicklungsweg dar.",
+        "commonMistake": "Den beschriebenen Wechsel mit einer Änderung des Eigentums- oder Profitprinzips gleichzusetzen.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Von individueller Kleinwirtschaft zu kollektiver Großlandwirtschaft"
+          },
+          {
+            "id": "b",
+            "text": "Von kollektiver Großlandwirtschaft zu individueller Kleinwirtschaft"
+          },
+          {
+            "id": "c",
+            "text": "Von privatem Profitstreben zu einem kapitalistischen Wirtschaftssystem"
+          },
+          {
+            "id": "d",
+            "text": "Von Landwirtschaft zu politischer Polizei"
+          }
+        ]
+      },
+      {
+        "id": "q06",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 2,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Welche Merkmale nennt die Definition der Zwangskollektivierung?",
+        "instruction": "Wähle die Antwort, die zur Quellenbeschreibung passt.",
+        "acceptedAnswers": [
+          "d"
+        ],
+        "correctAnswer": "d",
+        "explanationSteps": [
+          "Die Definition nennt gemeinsame Bodenbearbeitung.",
+          "Sie nennt außerdem Maschinen- beziehungsweise Traktoreneinsatz."
+        ],
+        "hint": "Achte auf die gemeinsame Bewirtschaftung und die eingesetzten Hilfsmittel.",
+        "secondHint": "Die Definition erwähnt Bodenbearbeitung sowie Maschinen oder Traktoren.",
+        "memoryRule": "Zur Zwangskollektivierung gehören gemeinsame Bodenbearbeitung und Maschinen- beziehungsweise Traktoreneinsatz.",
+        "commonMistake": "Privateigentum und Profitstreben als Merkmale der Zwangskollektivierung anzuführen.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Individuelle Kleinwirtschaft und ausschließlich persönliche Bodenbearbeitung"
+          },
+          {
+            "id": "b",
+            "text": "Privateigentum und Profitstreben"
+          },
+          {
+            "id": "c",
+            "text": "Verfolgung durch die politische Polizei"
+          },
+          {
+            "id": "d",
+            "text": "Gemeinsame Bodenbearbeitung und Maschinen- beziehungsweise Traktoreneinsatz"
+          }
+        ]
+      },
+      {
+        "id": "q07",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Was bedeutet „kapitalistisches Wirtschaftssystem“ laut Quellenmodell?",
+        "instruction": "Antworte mit den beiden genannten Merkmalen.",
+        "acceptedAnswers": [
+          "Ein Wirtschaftssystem, das auf Privateigentum und Profitstreben beruht.",
+          "Es beruht auf Privateigentum und Profitstreben."
+        ],
+        "correctAnswer": "Ein Wirtschaftssystem, das auf Privateigentum und Profitstreben beruht.",
+        "explanationSteps": [
+          "Die Definition nennt zwei Merkmale.",
+          "Das Wirtschaftssystem beruht auf Privateigentum und Profitstreben."
+        ],
+        "hint": "Die Definition nennt eine Eigentumsform und ein Ziel des Wirtschaftens.",
+        "secondHint": "Gesucht sind Privateigentum und das Streben nach Profit.",
+        "memoryRule": "Kapitalistisches Wirtschaftssystem: Privateigentum und Profitstreben.",
+        "commonMistake": "Nur eines der beiden Merkmale zu nennen.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p1"
+        ],
+        "estimatedSeconds": 60
+      },
+      {
+        "id": "q08",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Wofür war der NKWD laut Quellenmodell zuständig?",
+        "instruction": "Gib eine kurze, vollständige Antwort.",
+        "acceptedAnswers": [
+          "Für die Verfolgung von Personen, die das Regime als seine Feinde betrachtete.",
+          "Der NKWD verfolgte Personen, die das Regime als seine Feinde betrachtete."
+        ],
+        "correctAnswer": "Für die Verfolgung von Personen, die das Regime als seine Feinde betrachtete.",
+        "explanationSteps": [
+          "Der NKWD wird als sowjetische politische Polizei beschrieben.",
+          "Er war für die Verfolgung von Personen zuständig, die das Regime als Feinde betrachtete."
+        ],
+        "hint": "Denk an die Aufgabe einer politischen Polizei.",
+        "secondHint": "Gesucht ist die Verfolgung von Personen, die das Regime als Feinde ansah.",
+        "memoryRule": "Der NKWD war die politische Polizei, die als Regimefeinde betrachtete Personen verfolgte.",
+        "commonMistake": "Den NKWD mit dem Gulag gleichzusetzen: Der NKWD war die Polizei, der Gulag ein Lager.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p2"
+        ],
+        "estimatedSeconds": 60
+      },
+      {
+        "id": "q09",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 1,
+        "points": 1.0,
+        "questionType": "short_text",
+        "question": "Was war ein Gulag laut Quellenmodell?",
+        "instruction": "Nenne die Art des Ortes und wer dort eingesperrt wurde.",
+        "acceptedAnswers": [
+          "Ein Konzentrations- und Zwangsarbeitslager für Personen, die als Feinde des sowjetischen Regimes betrachtet wurden.",
+          "Ein Lager, in dem als Feinde des sowjetischen Regimes betrachtete Personen eingesperrt wurden."
+        ],
+        "correctAnswer": "Ein Konzentrations- und Zwangsarbeitslager für Personen, die als Feinde des sowjetischen Regimes betrachtet wurden.",
+        "explanationSteps": [
+          "Die Definition bezeichnet den Gulag als Konzentrations- und Zwangsarbeitslager.",
+          "Dort wurden Personen eingesperrt, die als Feinde des sowjetischen Regimes betrachtet wurden."
+        ],
+        "hint": "Die Definition beschreibt sowohl den Ort als auch die dort eingesperrten Personen.",
+        "secondHint": "Der Ort war ein Konzentrations- und Zwangsarbeitslager.",
+        "memoryRule": "Im Gulag wurden als Feinde des sowjetischen Regimes betrachtete Personen eingesperrt.",
+        "commonMistake": "Den Gulag als politische Polizei statt als Lager zu bezeichnen.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p2"
+        ],
+        "estimatedSeconds": 60
+      },
+      {
+        "id": "q10",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_bildquelle"
+        ],
+        "difficulty": 2,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Welche Darstellung passt zum Personenkult um Stalin?",
+        "instruction": "Wähle die Antwort, die beide beschriebenen Beispiele verbindet.",
+        "acceptedAnswers": [
+          "c"
+        ],
+        "correctAnswer": "c",
+        "explanationSteps": [
+          "Die Quellen zeigen überschwängliche Verehrung Stalins durch Bergleute.",
+          "Ein Poster aus den 1950er Jahren stellt Stalin als Freund der Kinder dar."
+        ],
+        "hint": "Verbinde die Quelle der Bergleute mit der Darstellung auf dem Poster.",
+        "secondHint": "In beiden Beispielen wird Stalin verehrt oder als Freund dargestellt.",
+        "memoryRule": "Personenkult zeigt Stalin als verehrten Führer und Freund.",
+        "commonMistake": "Den Personenkult mit der Verfolgung durch den NKWD zu verwechseln.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p2"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Stalin wird als politischer Polizist und Leiter des Gulags dargestellt."
+          },
+          {
+            "id": "b",
+            "text": "Bergleute warnen vor einer Intervention kapitalistischer Länder."
+          },
+          {
+            "id": "c",
+            "text": "Bergleute verehren Stalin; ein Poster zeigt ihn als Freund der Kinder."
+          },
+          {
+            "id": "d",
+            "text": "Ein Poster zeigt Soldat, Arbeiter und Bauer bei der gemeinsamen Bodenbearbeitung."
+          }
+        ]
+      },
+      {
+        "id": "q11",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 2,
+        "points": 1.0,
+        "questionType": "multiple_choice",
+        "question": "Was berichtet die Quelle zum Terror?",
+        "instruction": "Wähle die vollständige Antwort.",
+        "acceptedAnswers": [
+          "b"
+        ],
+        "correctAnswer": "b",
+        "explanationSteps": [
+          "Die Quelle berichtet von der Verhaftung Unschuldiger.",
+          "Sie berichtet außerdem von Menschen, die in den Gulag gebracht oder erschossen wurden."
+        ],
+        "hint": "Die Quelle nennt Verhaftungen und zwei mögliche Schicksale.",
+        "secondHint": "Menschen konnten in ein Lager gebracht oder erschossen werden.",
+        "memoryRule": "Die Terrorquelle berichtet von der Verhaftung Unschuldiger sowie von Gulag und Erschießungen.",
+        "commonMistake": "Zu behaupten, die Quelle spreche nur von Personen, deren Schuld bewiesen war.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p2"
+        ],
+        "estimatedSeconds": 60,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Nur von gemeinsamer Bodenbearbeitung und Traktoreneinsatz"
+          },
+          {
+            "id": "b",
+            "text": "Von der Verhaftung Unschuldiger und von Menschen, die in den Gulag gebracht oder erschossen wurden"
+          },
+          {
+            "id": "c",
+            "text": "Nur von der Verehrung Stalins durch Bergleute"
+          },
+          {
+            "id": "d",
+            "text": "Von einer Umstellung auf individuelle Kleinwirtschaft"
+          }
+        ]
+      },
+      {
+        "id": "q12",
+        "subject": "history_geography",
+        "chapter": "Der Totalitarismus in der UdSSR",
+        "skillIds": [
+          "history_geography.totalitarismus_udssr.analyse_bildquelle",
+          "history_geography.totalitarismus_udssr.analyse_textquelle"
+        ],
+        "difficulty": 3,
+        "points": 2.0,
+        "questionType": "multiple_choice",
+        "question": "Welche Antwort verbindet zwei unterschiedliche Merkmale der Herrschaft in der UdSSR, die im Quellenmodell belegt sind?",
+        "instruction": "Wähle die Antwort, die sowohl Personenkult als auch Terror korrekt beschreibt.",
+        "acceptedAnswers": [
+          "d"
+        ],
+        "correctAnswer": "d",
+        "explanationSteps": [
+          "Das Quellenmodell beschreibt Personenkult durch Stalins Verehrung und seine Darstellung als Freund.",
+          "Es beschreibt Terror durch die Verhaftung Unschuldiger sowie Menschen, die in den Gulag gebracht oder erschossen wurden.",
+          "Die richtige Antwort verbindet diese beiden belegten Merkmale."
+        ],
+        "hint": "Suche eine Antwort, die Verehrung und Verfolgung zusammen nennt.",
+        "secondHint": "Der Personenkult betrifft die Darstellung Stalins; Terror betrifft Verhaftungen und die berichteten Folgen.",
+        "memoryRule": "Personenkult bedeutet Verehrung und eine positive Darstellung Stalins; die Terrorquelle berichtet von Verhaftungen, Gulag und Erschießungen.",
+        "commonMistake": "Nur ein Merkmal zu beschreiben oder Personenkult und Terror gleichzusetzen.",
+        "sourceRefs": [
+          "src-7aef0ede67524b16be944eac649ce217-p2"
+        ],
+        "estimatedSeconds": 90,
+        "choices": [
+          {
+            "id": "a",
+            "text": "Personenkult bedeutet gemeinsame Bodenbearbeitung; Terror bedeutet Einsatz von Traktoren."
+          },
+          {
+            "id": "b",
+            "text": "Personenkult bezeichnet die politische Polizei; Terror bezeichnet Privateigentum und Profitstreben."
+          },
+          {
+            "id": "c",
+            "text": "Personenkult warnt vor einer Intervention; Terror beschreibt den Wechsel zur Großlandwirtschaft."
+          },
+          {
+            "id": "d",
+            "text": "Personenkult zeigt Stalin als verehrten Führer und Freund; die Terrorquelle berichtet von der Verhaftung Unschuldiger und Menschen, die in den Gulag gebracht oder erschossen wurden."
+          }
+        ]
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "exam-1",
+      "title": "Der Totalitarismus in der UdSSR – Klassenarbeit",
+      "mode": "exam",
+      "durationMinutes": 30,
+      "questionIds": [
+        "q03",
+        "q05",
+        "q10",
+        "q11",
+        "q06",
+        "q02",
+        "q12",
+        "q04",
+        "q01",
+        "q07",
+        "q09",
+        "q08"
+      ],
+      "seed": 3533805928
+    }
+  ],
+  "contentHash": "53b62af4ad15114bfaca5b9a6d20a4184ca04c6430989a29a08c243452ca7ae8"
+}

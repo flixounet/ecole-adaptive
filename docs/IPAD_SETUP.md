@@ -1,17 +1,17 @@
 # École auf dem iPad einrichten
 
-Du brauchst einmal Internet und die HTTPS-Adresse der veröffentlichten Schüler-App. Das Teacher Studio läuft auf dem Mac; es muss während des Lernens nicht eingeschaltet bleiben. Falls noch keine App-Adresse eingerichtet ist, zuerst die [Deployment-Anleitung](DEPLOYMENT.md) auf dem Mac durchführen.
+Du brauchst zunächst Internet. Die Schüler-App ist unter [https://flixounet.github.io/ecole-adaptive/](https://flixounet.github.io/ecole-adaptive/) erreichbar. Das Teacher Studio läuft auf dem Mac; es muss während des Lernens nicht eingeschaltet bleiben. Wie neue Kurse vom Mac auf die Website gelangen, steht in der [Deployment-Anleitung](DEPLOYMENT.md).
 
 ## Einmal einrichten
 
 1. Öffne **Safari** auf dem iPad.
-2. Gib die veröffentlichte École-Adresse ein. Sie beginnt mit `https://`.
+2. Öffne **https://flixounet.github.io/ecole-adaptive/**.
 3. Tippe auf **Teilen** (Quadrat mit Pfeil nach oben).
 4. Wähle **Zum Home-Bildschirm**, dann **Hinzufügen**.
 5. Öffne École über das neue Symbol auf dem Home-Bildschirm.
 6. Bleibe zunächst online. Warte auf die Anzeige **App offline bereit**.
 7. Wähle das gewünschte Profil, zum Beispiel **Max**.
-8. Öffne **Neue Inhalte**. Tippe beim gewünschten Kapitel auf **Herunterladen**.
+8. Öffne **Neue Inhalte → Katalog aktualisieren**. Tippe beim gewünschten Kapitel auf **Herunterladen**.
 9. Warte auf **Offline verfügbar**. Erst dann ist das ganze Paket gespeichert.
 10. Öffne **Meine Fächer** und starte eine Lernrunde oder Klassenarbeit.
 
@@ -29,9 +29,9 @@ Ein Symbol allein beweist noch keinen Offlinebetrieb. Prüfe ihn einmal: Aktivie
 
 ## Neue Aufgaben und Updates
 
-Wenn Internet vorhanden ist, erkennt École neue Katalogeinträge. Unter **Neue Inhalte** kannst du sie herunterladen. Veröffentlichungen auf dem Mac müssen vorher auch auf den HTTPS-Host übertragen worden sein.
+**Neue Kurse:** Bleibe online und wähle das richtige Profil, zum Beispiel **Max → Neue Inhalte → Katalog aktualisieren**. Tippe beim gewünschten Kurs auf **Herunterladen** und warte auf **Offline verfügbar**. „Lokal veröffentlicht“ im Teacher Studio reicht dafür noch nicht: Die Dateien müssen erst mit GitHub Desktop übertragen und der Pages-Lauf erfolgreich beendet worden sein.
 
-Bei einer neuen App-Version erscheint **Aktualisieren**. Schließe offene Runden erst ab. Gespeicherte Ergebnisse werden durch ein App- oder Inhaltsupdate nicht absichtlich gelöscht.
+**Neue App-Version:** Dafür erscheint ein eigener Hinweis **Aktualisieren**. Schließe offene Runden erst ab. Das App-Update erneuert die Anwendung; **Katalog aktualisieren** sucht Unterrichtspakete, und **Herunterladen** speichert das gewählte Paket. Gespeicherte Ergebnisse werden durch ein App- oder Inhaltsupdate nicht absichtlich gelöscht.
 
 ## Daten sichern
 
@@ -40,6 +40,7 @@ Bei einer neuen App-Version erscheint **Aktualisieren**. Schließe offene Runden
 ## Wenn etwas fehlt
 
 - Prüfe, ob das richtige Profil ausgewählt ist.
+- Fehlt bei Max **Geschichte-Geographie**, öffne **Profile & Backup → Schüler verwalten → Bearbeiten** bei Max. Ergänze im Feld **Aktive Fächer (durch Komma getrennt)** die Fach-ID `history_geography`; lasse die übrigen Fächer stehen. Wähle **Profil speichern**, dann **Neue Inhalte → Katalog aktualisieren** und lade den gewünschten Kurs herunter.
 - Prüfe, ob du École über Safari oder das Home-Screen-Symbol verwendest. Bleibe möglichst bei einem Zugang.
 - Ein anderer Hostname oder Port ist für den Browser eine andere Datenablage.
 - Inhalte müssen ausdrücklich heruntergeladen worden sein.

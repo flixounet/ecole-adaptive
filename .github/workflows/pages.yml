@@ -1,5 +1,10 @@
 name: Deploy Student App to Pages
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
 permissions:
   contents: read

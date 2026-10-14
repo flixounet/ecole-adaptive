@@ -1,7 +1,43 @@
 {
   "catalogVersion": 1,
-  "updatedAt": "2026-10-10T16:18:33.162Z",
+  "updatedAt": "2026-10-14T14:52:15.953Z",
   "packages": [
+    {
+      "id": "course-002da507911d41f484c08984cace98ed",
+      "version": 1,
+      "contentHash": "3b3e4aece08133a6a2d78ff4bf6c4a55fce2b49ad7ba49108b815f22fe9d7fa7",
+      "createdAt": "2026-10-14T13:31:39.981Z",
+      "studentIds": [
+        "max"
+      ],
+      "subject": "history_geography",
+      "grade": "3eme",
+      "chapter": "Der Totalitarismus in der UdSSR / Stalinismus",
+      "title": "Der Totalitarismus in der UdSSR / Stalinismus – Aufgabenpool",
+      "modes": [
+        "learn",
+        "exam"
+      ],
+      "url": "packages/course-002da507911d41f484c08984cace98ed-v1.json"
+    },
+    {
+      "id": "course-d2a1996816f74899a1b41f08b6ded3a7",
+      "version": 1,
+      "contentHash": "53b62af4ad15114bfaca5b9a6d20a4184ca04c6430989a29a08c243452ca7ae8",
+      "createdAt": "2026-10-14T14:52:15.919Z",
+      "studentIds": [
+        "max"
+      ],
+      "subject": "history_geography",
+      "grade": "3eme",
+      "chapter": "Der Totalitarismus in der UdSSR",
+      "title": "Der Totalitarismus in der UdSSR",
+      "modes": [
+        "learn",
+        "exam"
+      ],
+      "url": "packages/course-d2a1996816f74899a1b41f08b6ded3a7-v1.json"
+    },
     {
       "id": "lutz-maths-demo",
       "version": 2,
